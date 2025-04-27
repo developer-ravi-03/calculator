@@ -1,3 +1,3 @@
 # calculator
-This is  my beginner level project 
-- calcolator using html css and javascript
+This is  my beginner level project  
+Calcolator using html css and javascript
